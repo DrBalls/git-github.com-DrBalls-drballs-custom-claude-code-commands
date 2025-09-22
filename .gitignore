@@ -1,3 +1,4 @@
 /.claude
 /.env
 /CLAUDE.md
+.claude-flow/metrics/system-metrics.json
